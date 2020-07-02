@@ -4,3 +4,6 @@ print(kiaString)
 
 nouzhan = 1
 nouzhanString = "nouzhan"
+
+
+test = "nouzhan remote"
